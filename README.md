@@ -1,4 +1,2 @@
 # Summer-Olympics
-Data Analysis project on Olympics Data 
-
-Developed with : Python(Pandas) & Jupyter Notebook
+Analysed data and plotted graph for most popular sports and events (top 5), Athletes with most medals (top 5), sports with most female participantion (top 5) and so on...
